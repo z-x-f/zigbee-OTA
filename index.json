@@ -4840,21 +4840,6 @@
     "otaHeaderString": "EFR32MG21_Z3\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "jethome_zigbee_release_13_zigbee.ota.zigbee",
-    "fileVersion": 13,
-    "fileSize": 160226,
-    "originalUrl": "https://fw.jethome.ru/media/firmwares/jethome/zigbee/release/13/jethome_zigbee_release_13_zigbee.ota.zigbee",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/JetHome/jethome_zigbee_release_13_zigbee.ota.zigbee",
-    "imageType": 61441,
-    "manufacturerCode": 61731,
-    "sha512": "d2d185fc25b28d8e5ed4323550e630e5ada864add2bafc805b07113d9df9c95b7c37047e535784c0277f4fd5e9d9f06d91a558e4fc2a04080b2d85f9a1999a19",
-    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-    "manufacturerName": [
-      "JetHome"
-    ],
-    "releaseNotes": "https://fw.jethome.ru/devices/jethome/WS7/fw/release/latest/CHANGELOG.md"
-  },
-  {
     "fileName": "DIM-B40_DIM_T-0x00B8-0x03203660.OTA",
     "fileVersion": 52442720,
     "fileSize": 188384,
@@ -7122,5 +7107,20 @@
     "sha512": "c656737a4fd3464ed09d47887cde2b7390b13fe6423c06d5ceba5aa92d40dade89c49b4feabf89546585936c40543113bfcf720a4b09158e7e5fa924f7b385b8",
     "otaHeaderString": "GBL zingo_lds_stoftmoln\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "releaseNotes": "https://ww8.ikea.com/ikeahomesmart/releasenotes/releasenotes.html"
+  },
+  {
+    "fileName": "jethome_zigbee_release_15_zigbee.ota.zigbee",
+    "fileVersion": 15,
+    "fileSize": 160242,
+    "originalUrl": "https://fw.jethome.ru/media/firmwares/jethome/zigbee/release/15/jethome_zigbee_release_15_zigbee.ota.zigbee",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/JetHome/jethome_zigbee_release_15_zigbee.ota.zigbee",
+    "imageType": 61441,
+    "manufacturerCode": 61731,
+    "sha512": "53efac6c622306df81fd6d36d52eca301df138aedfc1bf3366a5d77b685cf2c3e20016eff83d1cf62ab8257dfefa91af05e6086429c6b56517e342d07d0a27b8",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "JetHome"
+    ],
+    "releaseNotes": "https://fw.jethome.ru/devices/jethome/WS7/fw/release/latest/CHANGELOG.md"
   }
 ]

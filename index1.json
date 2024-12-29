@@ -1247,5 +1247,20 @@
     "sha512": "c86984f2b6d5657099c85e042e5c46a23089731e8ffa1db1890534da831c606b358adaf164971b7f92c1e25307b5f6afe04a1f54a25ab4e2a4561b8bcd1e9cba",
     "otaHeaderString": "GBL 10082264-zingo-lds-stoftmoln",
     "releaseNotes": "https://ww8.ikea.com/ikeahomesmart/releasenotes/releasenotes.html"
+  },
+  {
+    "fileName": "jethome_zigbee_release_13_zigbee.ota.zigbee",
+    "fileVersion": 13,
+    "fileSize": 160226,
+    "originalUrl": "https://fw.jethome.ru/media/firmwares/jethome/zigbee/release/13/jethome_zigbee_release_13_zigbee.ota.zigbee",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/JetHome/jethome_zigbee_release_13_zigbee.ota.zigbee",
+    "imageType": 61441,
+    "manufacturerCode": 61731,
+    "sha512": "d2d185fc25b28d8e5ed4323550e630e5ada864add2bafc805b07113d9df9c95b7c37047e535784c0277f4fd5e9d9f06d91a558e4fc2a04080b2d85f9a1999a19",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "JetHome"
+    ],
+    "releaseNotes": "https://fw.jethome.ru/devices/jethome/WS7/fw/release/latest/CHANGELOG.md"
   }
 ]
