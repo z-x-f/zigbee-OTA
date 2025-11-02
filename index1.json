@@ -1554,17 +1554,6 @@
     "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "VZM30-SN_1.00.ota",
-    "fileVersion": 17826048,
-    "fileSize": 224618,
-    "originalUrl": "https://files.inovelli.com/firmware/VZM30-SN/Production/1.00/VZM30-SN_1.00.ota",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Inovelli/VZM30-SN_1.00.ota",
-    "imageType": 272,
-    "manufacturerCode": 4655,
-    "sha512": "5fb948e5d840b4d60699f7affb713ed030e150d3f6a133c5675d12c0191c6bcdd4ce0eeeaa70a13df6aa2181d3251afd071471d554ea875d60d0c69664204f9d",
-    "otaHeaderString": "VZM30-SN_OnOff\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "VZM32-SN_0.09.ota",
     "fileVersion": 16973833,
     "fileSize": 227246,
@@ -1808,5 +1797,16 @@
     "sha512": "c12b7a8695472aa0c3ebf3e43f504bdbf58c65ef81c137d2718644416214de45054f440eb341c486767f9a4b9fdfaa665575066ad153c56ddbdf50a08a2f863e",
     "otaHeaderString": "PL_HCL300x1200_01\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "releaseNotes": "1. Support GP switch.\r\n2. Improve network performance by fine tune router table."
+  },
+  {
+    "fileName": "VZM30-SN_1.01.ota",
+    "fileVersion": 17826049,
+    "fileSize": 224638,
+    "originalUrl": "https://files.inovelli.com/firmware/VZM30-SN/Production/1.01/VZM30-SN_1.01.ota",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Inovelli/VZM30-SN_1.01.ota",
+    "imageType": 272,
+    "manufacturerCode": 4655,
+    "sha512": "2ce48acc9fc1fa9b08db57e4eff3a4082029a262490a428dac333bed3a1e98d08f11abddcd60d5f9caa074bb7cfe48efc964d89c133e67d2fe3261baecca4a27",
+    "otaHeaderString": "VZM30-SN_OnOff\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]

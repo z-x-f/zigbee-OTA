@@ -7219,17 +7219,6 @@
     "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "VZM30-SN_1.01.ota",
-    "fileVersion": 17826049,
-    "fileSize": 224638,
-    "originalUrl": "https://files.inovelli.com/firmware/VZM30-SN/Production/1.01/VZM30-SN_1.01.ota",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Inovelli/VZM30-SN_1.01.ota",
-    "imageType": 272,
-    "manufacturerCode": 4655,
-    "sha512": "2ce48acc9fc1fa9b08db57e4eff3a4082029a262490a428dac333bed3a1e98d08f11abddcd60d5f9caa074bb7cfe48efc964d89c133e67d2fe3261baecca4a27",
-    "otaHeaderString": "VZM30-SN_OnOff\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "MCU_SELECT_TW_RGB-0x1189-0x00F7-0x01368000-MF_DIS-DOWM_DIS-20250731080530-3224010153640-lzma-encrypted.ota",
     "fileVersion": 20348928,
     "fileSize": 359342,
@@ -7664,5 +7653,28 @@
     "sha512": "e7c34906c056b6fa27eac35a916faa2e4bff1f0b1906e527fe6b6a6c1946ab77001c79d4cafc8b938a6ddcbff0d8de935eb6135b454560b2cd32b1b7a20ae1f0",
     "otaHeaderString": "PL_HCL300x1200_01\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "releaseNotes": "1. Support Green Power switch control in Direct Easy system.\r\n2. Support Rotary switch control in Direct Easy system."
+  },
+  {
+    "fileName": "VZM30-SN_1.02.ota",
+    "fileVersion": 17826050,
+    "fileSize": 224614,
+    "originalUrl": "https://files.inovelli.com/firmware/VZM30-SN/Beta/1.02/VZM30-SN_1.02.ota",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Inovelli/VZM30-SN_1.02.ota",
+    "imageType": 272,
+    "manufacturerCode": 4655,
+    "sha512": "a3a3aa3b2c8c0a625f9c53ce82b5f75ead82c3d0f003c1a29d12ae14b79084f47776e3ae5bbe90ec014a1cb29685b496aadabb949faa6b175bf6b05cfa75a846",
+    "otaHeaderString": "VZM30-SN_OnOff\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "DOT_IT_ZBD_G01-0x1189-0x00FC-0x01328000-MF_DIS-DOWM_DIS-20250815123429-3224010153640-lzma-encrypted.ota",
+    "fileVersion": 20086784,
+    "fileSize": 373050,
+    "originalUrl": "https://api.update.ledvance.com/v1/zigbee/firmwares/download?company=4489&product=252&version=1.50.128.0",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/LEDVANCE/DOT_IT_ZBD_G01-0x1189-0x00FC-0x01328000-MF_DIS-DOWM_DIS-20250815123429-3224010153640-lzma-encrypted.ota",
+    "imageType": 252,
+    "manufacturerCode": 4489,
+    "sha512": "970d3f2f3cf4ef919d6f44dc6feb354eb603038d00b68542f07f72f3d7a4685b539708e3a0443f046974d4d841353da2a2734f4fedf157057d19d68b97042a93",
+    "otaHeaderString": "DOT_IT_ZBD_G01\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "releaseNotes": "1. Standard brightness of Dot-It @70%.\r\n2. Improve Dimming Curve."
   }
 ]
