@@ -7131,17 +7131,6 @@
     "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "100B-0118-01001A02-PixelLum-EFR32MG21.zigbee",
-    "fileVersion": 16783874,
-    "fileSize": 461188,
-    "originalUrl": "https://firmware.meethue.com/storage/100b-118/16783874/0dba3070-f013-4c59-ae1d-fd15ba0be46d/100B-0118-01001A02-PixelLum-EFR32MG21.zigbee",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Hue/100B-0118-01001A02-PixelLum-EFR32MG21.zigbee",
-    "imageType": 280,
-    "manufacturerCode": 4107,
-    "sha512": "916714904a78a01074593aa8438ce7cfbe59a1166f3b0c87d72dc8dfcae5f7e0b57370effd6e5bc897f1a7d8d7b45a48fde68f4c22b7c8404077347f62e3a9d8",
-    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "100B-011A-01001002-SmartPlug-EFR32MG21.zigbee",
     "fileVersion": 16781314,
     "fileSize": 348372,
@@ -7676,5 +7665,16 @@
     "sha512": "450b0626a371088202fc87c16f4e9c58328377f53853ebe8e25aae3cd7609b26da87559620a07f85b56212df52184513ea80190ec9e2020566874b9af92849e7",
     "otaHeaderString": "Telink OTA Sample Usage\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "releaseNotes": "1. Improve the energy consumption report in Home Assistant system."
+  },
+  {
+    "fileName": "100B-0118-01002000-PixelLum-EFR32MG21.zigbee",
+    "fileVersion": 16785408,
+    "fileSize": 511780,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-118/16785408/5c300395-e4de-4793-8a81-987651dc3a40/100B-0118-01002000-PixelLum-EFR32MG21.zigbee",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Hue/100B-0118-01002000-PixelLum-EFR32MG21.zigbee",
+    "imageType": 280,
+    "manufacturerCode": 4107,
+    "sha512": "14ecc44c4a500fa7b41c12e29df85f901ba4baf3fc8a6652008611c35361ff611abef5b291e51d31e9852f720c75cf14ed56fa5cf05d66897340f030a96b2d9f",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
