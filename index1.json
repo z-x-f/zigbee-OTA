@@ -24,17 +24,6 @@
     "releaseNotes": "https://ww8.ikea.com/ikeahomesmart/releasenotes/releasenotes.html"
   },
   {
-    "fileName": "VZM31-SN_2.15-Production.ota",
-    "fileVersion": 16908815,
-    "fileSize": 306782,
-    "originalUrl": "https://github.com/InovelliUSA/Firmware/raw/main/Blue-Series/Zigbee/VZM31-SN-2-1-Switch/Production/2.15/VZM31-SN_2.15-Production.ota",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Inovelli/VZM31-SN_2.15-Production.ota",
-    "imageType": 257,
-    "manufacturerCode": 4655,
-    "sha512": "0c0973c9ad5f627b9cd1cfea8c6d4b0e57958378b4ca21b97d9552fa0183eecbb3c3971cf4f965e39c8b974aa3e91653c9ef7a55abe4ae478a67dccc6417b26a",
-    "otaHeaderString": "EBL VM_SWITCH\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "PAR16_DIM_Z3_IM0031_01036400-encrypted_202110060424_withoutMF.ota",
     "fileVersion": 16999424,
     "fileSize": 183392,
@@ -1820,5 +1809,63 @@
     "sha512": "970d3f2f3cf4ef919d6f44dc6feb354eb603038d00b68542f07f72f3d7a4685b539708e3a0443f046974d4d841353da2a2734f4fedf157057d19d68b97042a93",
     "otaHeaderString": "DOT_IT_ZBD_G01\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "releaseNotes": "1. Standard brightness of Dot-It @70%.\r\n2. Improve Dimming Curve."
+  },
+  {
+    "fileName": "VZM31-SN_2.18-Production.ota",
+    "fileVersion": 16908818,
+    "fileSize": 310258,
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Inovelli/VZM31-SN_2.18-Production.ota",
+    "imageType": 257,
+    "manufacturerCode": 4655,
+    "sha512": "6d480a5d621a16bb3a57fcc1af09071fc528dab2a8f3e479620c3bd75ddfa9e8f624c32b1dc35d5c1bc8db0f67a70ee150ce3a516a2026f717076dcbeba23df7",
+    "otaHeaderString": "EBL VM_SWITCH\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "MCU_SELECT_TW_RGB-0x1189-0x00F7-0x01368000-MF_DIS-DOWM_DIS-20250731080530-3224010153640-lzma-encrypted.ota",
+    "fileVersion": 20348928,
+    "fileSize": 359342,
+    "originalUrl": "https://api.update.ledvance.com/v1/zigbee/firmwares/download?company=4489&product=247&version=1.54.128.0",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/LEDVANCE/MCU_SELECT_TW_RGB-0x1189-0x00F7-0x01368000-MF_DIS-DOWM_DIS-20250731080530-3224010153640-lzma-encrypted.ota",
+    "imageType": 247,
+    "manufacturerCode": 4489,
+    "sha512": "50129351248c403c86d9252b4dcba33d4f669f4906a8c896c5e1f7d91f9303d9c6dbdf587c0a93b8408b8e38d0c62c42ec25a8032461c8517e7840cc0634e755",
+    "otaHeaderString": "MCU_SELECT_TW_RGB\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "releaseNotes": "1.Support dynamic CCT&DIM.\r\n2.Support RGB\r\n3.Support RGB/TW. \r\n4.Support daylight harvest control.\r\n5.Enable OTA upgrade over Bluetooth."
+  },
+  {
+    "fileName": "SENSOR_DIRECT_LS_PD_7_IR_CI_ZB-0x1189-0x00F9-0x025C8000-MF_DIS-DOWM_DIS-20250717074332-3224010153640-lzma-encrypted.ota",
+    "fileVersion": 39616512,
+    "fileSize": 350950,
+    "originalUrl": "https://api.update.ledvance.com/v1/zigbee/firmwares/download?company=4489&product=249&version=2.92.128.0",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/LEDVANCE/SENSOR_DIRECT_LS_PD_7_IR_CI_ZB-0x1189-0x00F9-0x025C8000-MF_DIS-DOWM_DIS-20250717074332-3224010153640-lzma-encrypted.ota",
+    "imageType": 249,
+    "manufacturerCode": 4489,
+    "sha512": "3ea5e433ef315dbd8196fb55af3cd64b3436cd0b4b2e4fb4ac7587dc27ff0316a009cbe4ea377c4e5a0e70e36fef88193690760303f632b8adc046efe49922a3",
+    "otaHeaderString": "SENSOR_DIRECT_LS_PD_7_IR_CI_ZB\u0000\u0000",
+    "releaseNotes": "1.Support occupancy control.\r\n2.Support daylight harvest control.\r\n3.Enable OTA upgrade over Bluetooth.\r\n4.Work with green power switch.\r\n5.Fix bugs reported in system test. "
+  },
+  {
+    "fileName": "DR_ZBD_NFC_P_30W_220_240V_0A7-0x1189-0x00FD-0x025E8000-MF_DIS-DOWM_DIS-20250804132155-3224010153640-lzma-encrypted.ota",
+    "fileVersion": 39747584,
+    "fileSize": 374022,
+    "originalUrl": "https://api.update.ledvance.com/v1/zigbee/firmwares/download?company=4489&product=253&version=2.94.128.0",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/LEDVANCE/DR_ZBD_NFC_P_30W_220_240V_0A7-0x1189-0x00FD-0x025E8000-MF_DIS-DOWM_DIS-20250804132155-3224010153640-lzma-encrypted.ota",
+    "imageType": 253,
+    "manufacturerCode": 4489,
+    "sha512": "75a299173ed81528407c5b86d14f0e0d3746346eaf976e782a89836b89c5bfabb8d8a9b7e38b877a05b6644b81f453588fb5aa4293ebe653bd24fd29f60feafd",
+    "otaHeaderString": "DR_ZBD_NFC_P_30W_220_240V_0A7\u0000\u0000\u0000",
+    "releaseNotes": "1.Support occupancy control.\r\n2.Support daylight harvest control.\r\n3.Support Ledvance green power switch.\r\n4.Enable OTA upgrade over Bluetooth.\r\n5.Fix bugs reported in system test. "
+  },
+  {
+    "fileName": "DR_ZBD_NFC_P_45W_220_240V_1A2-0x1189-0x00FE-0x025E8000-MF_DIS-DOWM_DIS-20250804132854-3224010153640-lzma-encrypted.ota",
+    "fileVersion": 39747584,
+    "fileSize": 373962,
+    "originalUrl": "https://api.update.ledvance.com/v1/zigbee/firmwares/download?company=4489&product=254&version=2.94.128.0",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/LEDVANCE/DR_ZBD_NFC_P_45W_220_240V_1A2-0x1189-0x00FE-0x025E8000-MF_DIS-DOWM_DIS-20250804132854-3224010153640-lzma-encrypted.ota",
+    "imageType": 254,
+    "manufacturerCode": 4489,
+    "sha512": "a8f2f8883d1f3447ec53237ed11dcdad6d090738191c4f53268683f59d90eab6c6a10af5f8f25b0f284d90f4e984220cf8c06bc4a6d11df9f60659f6b2dc095c",
+    "otaHeaderString": "DR_ZBD_NFC_P_45W_220_240V_1A2\u0000\u0000\u0000",
+    "releaseNotes": "1.Support occupancy control.\r\n2.Support daylight harvest control.\r\n3.Support Ledvance green power switch.\r\n4.Enable OTA upgrade over Bluetooth.\r\n5.Fix bugs reported in system test. "
   }
 ]
