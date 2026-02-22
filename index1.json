@@ -1227,19 +1227,6 @@
     "hardwareVersionMax": 1
   },
   {
-    "fileName": "10F2-7B2D-0000-0001-0172044D-m7b-h1.ota.zigbee",
-    "fileVersion": 24249421,
-    "fileSize": 182526,
-    "originalUrl": "http://fwu.ubisys.de/smarthome/OTA/release/10F2-7B2D-0000-0001-0172044D-m7b-h1.ota.zigbee",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Ubisys/10F2-7B2D-0000-0001-0172044D-m7b-h1.ota.zigbee",
-    "imageType": 31533,
-    "manufacturerCode": 4338,
-    "sha512": "b348e455e1b608890db1c06c23f911b6ada09f96610586c304c42af00f1c1c70025df532d46983e1fac9ec699bb27d0f74eb57c8a9c6adf6edfee7a2f2100dec",
-    "otaHeaderString": "ubisys H1 1.7.2\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-    "hardwareVersionMin": 0,
-    "hardwareVersionMax": 1
-  },
-  {
     "fileName": "10F2-7B31-0000-0006-02500447-spo-fmd.ota.zigbee",
     "fileVersion": 38798407,
     "fileSize": 152574,
@@ -1867,5 +1854,18 @@
     "sha512": "a8f2f8883d1f3447ec53237ed11dcdad6d090738191c4f53268683f59d90eab6c6a10af5f8f25b0f284d90f4e984220cf8c06bc4a6d11df9f60659f6b2dc095c",
     "otaHeaderString": "DR_ZBD_NFC_P_45W_220_240V_1A2\u0000\u0000\u0000",
     "releaseNotes": "1.Support occupancy control.\r\n2.Support daylight harvest control.\r\n3.Support Ledvance green power switch.\r\n4.Enable OTA upgrade over Bluetooth.\r\n5.Fix bugs reported in system test. "
+  },
+  {
+    "fileName": "10F2-7B2D-0000-0001-01800460-m7b-h1.ota.zigbee",
+    "fileVersion": 25166944,
+    "fileSize": 182526,
+    "originalUrl": "http://fwu.ubisys.de/smarthome/OTA/release/10F2-7B2D-0000-0001-01800460-m7b-h1.ota.zigbee",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Ubisys/10F2-7B2D-0000-0001-01800460-m7b-h1.ota.zigbee",
+    "imageType": 31533,
+    "manufacturerCode": 4338,
+    "sha512": "10391d2c4e390f25c1a518aa5e46cbe3b7e2f1060601994c1fb292a8fd68a07d829fc42272d038907e618a7601ebeb07d513f6e2e16a85213bf3a8694ad8b311",
+    "otaHeaderString": "ubisys H1 1.8.0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "hardwareVersionMin": 0,
+    "hardwareVersionMax": 1
   }
 ]

@@ -6871,19 +6871,6 @@
     "hardwareVersionMax": 1
   },
   {
-    "fileName": "10F2-7B2D-0000-0001-01800460-m7b-h1.ota.zigbee",
-    "fileVersion": 25166944,
-    "fileSize": 182526,
-    "originalUrl": "http://fwu.ubisys.de/smarthome/OTA/release/10F2-7B2D-0000-0001-01800460-m7b-h1.ota.zigbee",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Ubisys/10F2-7B2D-0000-0001-01800460-m7b-h1.ota.zigbee",
-    "imageType": 31533,
-    "manufacturerCode": 4338,
-    "sha512": "10391d2c4e390f25c1a518aa5e46cbe3b7e2f1060601994c1fb292a8fd68a07d829fc42272d038907e618a7601ebeb07d513f6e2e16a85213bf3a8694ad8b311",
-    "otaHeaderString": "ubisys H1 1.8.0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-    "hardwareVersionMin": 0,
-    "hardwareVersionMax": 1
-  },
-  {
     "fileName": "10F2-7B31-0000-0006-02600460-spo-fmd.ota.zigbee",
     "fileVersion": 39847008,
     "fileSize": 153086,
@@ -7677,5 +7664,18 @@
     "sha512": "cc630f84746aa851c94bd322936dcefe369f70e6a9b4b6d01c47477446f3b8d36f32f2e33813929a8b5695d1821c6c3edd97ed788fdc6ee49d7aa7f81a920b6d",
     "otaHeaderString": "DR_ZBD_NFC_P_45W_220_240V_1A2\u0000\u0000\u0000",
     "releaseNotes": "1. Refine responding to OnOff command with transition time. \r\n2. Modify min level 1% in logarithm dimming curve.\r\n3. Fix bug ZBD-1063. New solution for occupancy control to replacing 90s sensor mute.\r\n4. Sync the platform modification to Sensor."
+  },
+  {
+    "fileName": "10F2-7B2D-0000-0001-01810460-m7b-h1.ota.zigbee",
+    "fileVersion": 25232480,
+    "fileSize": 182526,
+    "originalUrl": "http://fwu.ubisys.de/smarthome/OTA/release/10F2-7B2D-0000-0001-01810460-m7b-h1.ota.zigbee",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Ubisys/10F2-7B2D-0000-0001-01810460-m7b-h1.ota.zigbee",
+    "imageType": 31533,
+    "manufacturerCode": 4338,
+    "sha512": "5e4ddf6b723571a6e569950f2097895d41599a7758f3065d674becf4007db337e6715798a56155181d272d88d292b1436e7ce41d650e16d56406cb3568411943",
+    "otaHeaderString": "ubisys H1 1.8.1\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "hardwareVersionMin": 0,
+    "hardwareVersionMax": 1
   }
 ]
