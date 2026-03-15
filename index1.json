@@ -1867,5 +1867,17 @@
     "otaHeaderString": "ubisys H1 1.8.0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "hardwareVersionMin": 0,
     "hardwareVersionMax": 1
+  },
+  {
+    "fileName": "STRIP_CONTROL_DIRECT_TW_RGB-0x1189-0x00FA-0x01348000-MF_DIS-DOWM_DIS-20250711054618-3224010153640-lzma-encrypted.ota",
+    "fileVersion": 20217856,
+    "fileSize": 380246,
+    "originalUrl": "https://api.update.ledvance.com/v1/zigbee/firmwares/download?company=4489&product=250&version=1.52.128.0",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/LEDVANCE/STRIP_CONTROL_DIRECT_TW_RGB-0x1189-0x00FA-0x01348000-MF_DIS-DOWM_DIS-20250711054618-3224010153640-lzma-encrypted.ota",
+    "imageType": 250,
+    "manufacturerCode": 4489,
+    "sha512": "11fdad46c4ee2919ef5e48ad85921a26a217c0bebc3d6e3fce09d20690ac4d8a49665f5997ee8bf1312be2fc47d98fb0197594b7c21f05a0e0a22c91bc4a479d",
+    "otaHeaderString": "STRIP_CONTROL_DIRECT_TW_RGB\u0000\u0000\u0000\u0000\u0000",
+    "releaseNotes": "1.Enable 5 channels for DIM,TW,RGB-TW control.\r\n2.Support occupancy control.\r\n3.Support daylight harvest control.\r\n4.Support Ledvance green power switch.\r\n5.Enable OTA upgrade over Bluetooth."
   }
 ]
