@@ -5359,17 +5359,6 @@
     "hardwareVersionMax": 1
   },
   {
-    "fileName": "VZM36_1.01-Beta.ota",
-    "fileVersion": 67174657,
-    "fileSize": 237938,
-    "originalUrl": "https://github.com/InovelliUSA/Firmware/raw/6608d75c73b5200b20ed197653c9ad3af1f5c1e7/Blue-Series/Zigbee/VZM36-Fan-Plus-Light/Beta/1.01/VZM36_1.01-Beta.ota",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Inovelli/VZM36_1.01-Beta.ota",
-    "imageType": 1025,
-    "manufacturerCode": 4655,
-    "sha512": "daa5570379960cc959d867160bc21d3cf651926af63c4c3076a02810cee1a4b8a4def1a097b2bdaea818c712f39fb93c37ccf84aeb0ada4eaedebd9b1c4eb882",
-    "otaHeaderString": "VMZB_Canopy\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "CLA60_RGBW_Z3_IM0011_01066400-encrypted_202126110358_withoutMF.ota",
     "fileVersion": 17196032,
     "fileSize": 193900,
@@ -7677,5 +7666,16 @@
     "sha512": "aadb90a51ea1a7fbad23bdf1ca5c1c5e23fe0bf1c21167c05da5621cb6d1f393db9cc5a21ad1ad7eb8f21502a5f0ccc8bd19ac3aeab7ff97e490609fd9c034d9",
     "otaHeaderString": "STRIP_CONTROL_DIRECT_TW_RGB\u0000\u0000\u0000\u0000\u0000",
     "releaseNotes": "1.Refine OnOff response with transition time.\r\n2.Modify min level in logarithm curve.\r\n3.Sync multi endpoints to same level when rapidly toggling in App.\r\n4.Fix off effect on Endpoint 2.\r\n5.Support Biolux dimming curve.\r\n6.Sync the platform modification."
+  },
+  {
+    "fileName": "VZM36_1.02.ota",
+    "fileVersion": 67174658,
+    "fileSize": 234866,
+    "originalUrl": "https://files.inovelli.com/firmware/VZM36/Beta/1.02/VZM36_1.02.ota",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Inovelli/VZM36_1.02.ota",
+    "imageType": 1025,
+    "manufacturerCode": 4655,
+    "sha512": "a53ce5132b40e21491320961c51777b27dc5b2914a2bebd1a15406569be8930931da8a74dc1d2af009dda7c95b59e760ea33423c3e6b0ccf48945a3d3df7adf9",
+    "otaHeaderString": "VMZB_Canopy\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
