@@ -1497,17 +1497,6 @@
     "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "VZM32-SN_0.09.ota",
-    "fileVersion": 16973833,
-    "fileSize": 227246,
-    "originalUrl": "https://files.inovelli.com/firmware/VZM32-SN/Beta/0.09/VZM32-SN_0.09.ota",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Inovelli/VZM32-SN_0.09.ota",
-    "imageType": 259,
-    "manufacturerCode": 4655,
-    "sha512": "639ae6284c4fd740573a6079c6164c0c73938a7efdb0d78059ea64342f4029a4470377c5577825fac52390b3d046ea3d1c1355da925ac6dfdaf20ff24b88dac2",
-    "otaHeaderString": "vzm32-sn_mmWave\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "DIM-B40_DIM_T-0x00B8-0x03203660.OTA",
     "fileVersion": 52442720,
     "fileSize": 188384,
@@ -1879,5 +1868,16 @@
     "manufacturerCode": 4655,
     "sha512": "daa5570379960cc959d867160bc21d3cf651926af63c4c3076a02810cee1a4b8a4def1a097b2bdaea818c712f39fb93c37ccf84aeb0ada4eaedebd9b1c4eb882",
     "otaHeaderString": "VMZB_Canopy\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "VZM32-SN_0.10.ota",
+    "fileVersion": 16973834,
+    "fileSize": 227210,
+    "originalUrl": "https://files.inovelli.com/firmware/VZM32-SN/Beta/0.10/VZM32-SN_0.10.ota",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Inovelli/VZM32-SN_0.10.ota",
+    "imageType": 259,
+    "manufacturerCode": 4655,
+    "sha512": "a766719e1f13893adb17ce8aec13d198ce8371a0bb740203515524f972305e8f7cd2b4904b1a50bae9664b44f87d7132305a3348fd0e4481049439a71c19bf89",
+    "otaHeaderString": "vzm32-sn_mmWave\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
