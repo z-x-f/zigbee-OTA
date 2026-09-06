@@ -7660,17 +7660,6 @@
     "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "100B-0118-01002100-PixelLum-EFR32MG21.zigbee",
-    "fileVersion": 16785664,
-    "fileSize": 501568,
-    "originalUrl": "https://firmware.meethue.com/storage/100b-118/16785664/6fd4f8ad-c645-4699-9f92-71bb965314db/100B-0118-01002100-PixelLum-EFR32MG21.zigbee",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Hue/100B-0118-01002100-PixelLum-EFR32MG21.zigbee",
-    "imageType": 280,
-    "manufacturerCode": 4107,
-    "sha512": "d557942fac0a00e48726bb0f26b564331346e0ec1a4f9dc1266858e01a5a2f4c64c7939321f0237540416d88017000e2c5923552312f6ecbaa305530a83b9345",
-    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "100B-011A-01001200-SmartPlug-EFR32MG21.zigbee",
     "fileVersion": 16781824,
     "fileSize": 343744,
@@ -7785,5 +7774,16 @@
     "otaHeaderString": "ubisys D1-R 2.7.1\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "hardwareVersionMin": 0,
     "hardwareVersionMax": 4
+  },
+  {
+    "fileName": "100B-0118-01002300-PixelLum-EFR32MG21.zigbee",
+    "fileVersion": 16786176,
+    "fileSize": 501916,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-118/16786176/1cd35c7a-f534-4846-a176-c32809e6e3da/100B-0118-01002300-PixelLum-EFR32MG21.zigbee",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Hue/100B-0118-01002300-PixelLum-EFR32MG21.zigbee",
+    "imageType": 280,
+    "manufacturerCode": 4107,
+    "sha512": "bee3e140a9efe47f38e707bf189afc1a162e7602b958a95abacbced5bab8132cb12ac5ca03aa9b051f7f2e3a39183b306347ece0e253209e31546469bbe2a9ff",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]

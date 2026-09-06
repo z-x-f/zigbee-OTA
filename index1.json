@@ -1776,17 +1776,6 @@
     "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "100B-0118-01002000-PixelLum-EFR32MG21.zigbee",
-    "fileVersion": 16785408,
-    "fileSize": 511780,
-    "originalUrl": "https://firmware.meethue.com/storage/100b-118/16785408/5c300395-e4de-4793-8a81-987651dc3a40/100B-0118-01002000-PixelLum-EFR32MG21.zigbee",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Hue/100B-0118-01002000-PixelLum-EFR32MG21.zigbee",
-    "imageType": 280,
-    "manufacturerCode": 4107,
-    "sha512": "14ecc44c4a500fa7b41c12e29df85f901ba4baf3fc8a6652008611c35361ff611abef5b291e51d31e9852f720c75cf14ed56fa5cf05d66897340f030a96b2d9f",
-    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "100B-011A-01001002-SmartPlug-EFR32MG21.zigbee",
     "fileVersion": 16781314,
     "fileSize": 348372,
@@ -1901,5 +1890,16 @@
     "otaHeaderString": "ubisys D1-R 2.6.0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "hardwareVersionMin": 0,
     "hardwareVersionMax": 4
+  },
+  {
+    "fileName": "100B-0118-01002100-PixelLum-EFR32MG21.zigbee",
+    "fileVersion": 16785664,
+    "fileSize": 501568,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-118/16785664/6fd4f8ad-c645-4699-9f92-71bb965314db/100B-0118-01002100-PixelLum-EFR32MG21.zigbee",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Hue/100B-0118-01002100-PixelLum-EFR32MG21.zigbee",
+    "imageType": 280,
+    "manufacturerCode": 4107,
+    "sha512": "d557942fac0a00e48726bb0f26b564331346e0ec1a4f9dc1266858e01a5a2f4c64c7939321f0237540416d88017000e2c5923552312f6ecbaa305530a83b9345",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
