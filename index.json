@@ -7003,17 +7003,6 @@
     "hardwareVersionMax": 1
   },
   {
-    "fileName": "100B-0129-01001000-Light-EFR32MG26.zigbee",
-    "fileVersion": 16781312,
-    "fileSize": 881834,
-    "originalUrl": "https://firmware.meethue.com/storage/100b-129/16781312/154cde62-253b-46b5-8b47-a7d705d71eff/100B-0129-01001000-Light-EFR32MG26.zigbee",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Hue/100B-0129-01001000-Light-EFR32MG26.zigbee",
-    "imageType": 297,
-    "manufacturerCode": 4107,
-    "sha512": "d8c6583f9e6db1179af3c8f3e4166d6b5ae8554c3327cdc34ae01712b04393ea527d08734f5032bcb6e46017e8bef70573c0a11e0d0d1441d3757107df17a75b",
-    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "A60_RGBW_T-0x00B6-0x03483712-MF_DIS.OTA",
     "fileVersion": 55064338,
     "fileSize": 256224,
@@ -7784,6 +7773,17 @@
     "imageType": 280,
     "manufacturerCode": 4107,
     "sha512": "bee3e140a9efe47f38e707bf189afc1a162e7602b958a95abacbced5bab8132cb12ac5ca03aa9b051f7f2e3a39183b306347ece0e253209e31546469bbe2a9ff",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "100B-0129-01001200-Light-EFR32MG26.zigbee",
+    "fileVersion": 16781824,
+    "fileSize": 888130,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-129/16781824/d33f6027-58b0-485c-ac4e-49af3360ab49/100B-0129-01001200-Light-EFR32MG26.zigbee",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Hue/100B-0129-01001200-Light-EFR32MG26.zigbee",
+    "imageType": 297,
+    "manufacturerCode": 4107,
+    "sha512": "ccf77eba75ac47fc7d892638d75ce5324ff5a4b5e9e650d7cd30fa1715ad1306a1cba8b130b8829a37f6f019f13c712a5d79e6b6f297d7033dc7e61564d01f97",
     "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
