@@ -1673,17 +1673,6 @@
     "otaHeaderString": "VMZB_Canopy\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "VZM32-SN_0.10.ota",
-    "fileVersion": 16973834,
-    "fileSize": 227210,
-    "originalUrl": "https://files.inovelli.com/firmware/VZM32-SN/Beta/0.10/VZM32-SN_0.10.ota",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Inovelli/VZM32-SN_0.10.ota",
-    "imageType": 259,
-    "manufacturerCode": 4655,
-    "sha512": "a766719e1f13893adb17ce8aec13d198ce8371a0bb740203515524f972305e8f7cd2b4904b1a50bae9664b44f87d7132305a3348fd0e4481049439a71c19bf89",
-    "otaHeaderString": "vzm32-sn_mmWave\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "SENSOR_DIRECT_LS_PD_7_IR_CI_ZB-0x1189-0x00F9-0x026E8000-MF_DIS-DOWM_DIS-20251212102214-3224010153640-lzma-encrypted.ota",
     "fileVersion": 40796160,
     "fileSize": 349106,
@@ -1901,5 +1890,16 @@
     "manufacturerCode": 4107,
     "sha512": "46b54a1d49017de63649bba3a5c04daff98d062160d3887dfaa177da3804ea8663410b1ca7bae3850a14057eedfe911a9d668a75dbacec64c213dd9488537101",
     "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "VZM32-SN_1.02.ota",
+    "fileVersion": 16974082,
+    "fileSize": 227442,
+    "originalUrl": "https://files.inovelli.com/firmware/VZM32-SN/Production/1.02/VZM32-SN_1.02.ota",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Inovelli/VZM32-SN_1.02.ota",
+    "imageType": 259,
+    "manufacturerCode": 4655,
+    "sha512": "c203b8b462a2d5b71be3d760ea5ef4bd4ce4df051e3816775ec1f5386f1451e40f527109378208a183da8ad821a38e80ddacc71ab8e3bf3d79ca73062cad4ba2",
+    "otaHeaderString": "vzm32-sn_mmWave\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
